@@ -1,7 +1,7 @@
 # 🌾 AgriPredict - AI-Powered Precision Farming Solution
 
 ## 📋 Overview
-AgriPredict is a Flask-based web application that predicts the most suitable crops based on soil nutrients (N-P-K ratios), climatic conditions, and pH levels using Machine Learning with **97% accuracy**.
+AgriPredict is a Machine Learning and Data Science–based web application that predicts the most suitable crops based on soil nutrients (N-P-K ratios), climatic conditions, and pH levels with **97% accuracy**.
 
 ---
 
@@ -172,4 +172,5 @@ Werkzeug==3.0.1       # WSGI utilities
 
 
 **Happy Farming! 🌾🚜**
+
 
